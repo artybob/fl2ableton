@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PluginDevice Id="1">
+								<LomId Value="0" />
+								<LomIdView Value="0" />
+								<IsExpanded Value="false" />
+								<BreakoutIsExpanded Value="false" />
+								<On>
+									<LomId Value="0" />
+									<Manual Value="true" />
+									<AutomationTarget Id="103005">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<MidiCCOnOffThresholds>
+										<Min Value="64" />
+										<Max Value="127" />
+									</MidiCCOnOffThresholds>
+								</On>
+								<ModulationSourceCount Value="0" />
+								<ParametersListWrapper LomId="0" />
+								<Pointee Id="103006" />
+								<LastSelectedTimeableIndex Value="0" />
+								<LastSelectedClipEnvelopeIndex Value="0" />
+								<LastPresetRef>
+									<Value />
+								</LastPresetRef>
+								<LockedScripts />
+								<IsFolded Value="false" />
+								<ShouldShowPresetName Value="true" />
+								<UserName Value="" />
+								<Annotation Value="" />
+								<SourceContext>
+									<Value>
+										<BranchSourceContext Id="0">
+											<OriginalFileRef />
+											<BrowserContentPath Value="view:X-Plugins#ValhallaFutureVerb" />
+											<LocalFiltersJson Value="" />
+											<PresetRef />
+											<BranchDeviceId Value="device:vst:audiofx:1214607983?n=ValhallaFutureVerb" />
+										</BranchSourceContext>
+									</Value>
+								</SourceContext>
+								<MpePitchBendUsesTuning Value="true" />
+								<ViewData Value="{}" />
+								<PluginDesc>
+									<VstPluginInfo Id="0">
+										<WinPosX Value="56" />
+										<WinPosY Value="112" />
+										<NumAudioInputs Value="1" />
+										<NumAudioOutputs Value="1" />
+										<IsPlaceholderDevice Value="false" />
+										<Path Value="C:/Programms/VST/Valhalla FutureVerb/ValhallaFutureVerb.dll" />
+										<PlugName Value="ValhallaFutureVerb" />
+										<UniqueId Value="1214607983" />
+										<Inputs Value="0" />
+										<Outputs Value="0" />
+										<NumberOfParameters Value="32" />
+										<NumberOfPrograms Value="1" />
+										<Flags Value="1280" />
+										<Preset>
+											<VstPreset Id="6">
+												<OverwriteProtectionNumber Value="3076" />
+												<MpeEnabled Value="0" />
+												<MpeSettings>
+													<ZoneType Value="0" />
+													<FirstNoteChannel Value="1" />
+													<LastNoteChannel Value="15" />
+												</MpeSettings>
+												<ParameterSettings />
+												<IsOn Value="true" />
+												<PowerMacroControlIndex Value="-1" />
+												<PowerMacroMappingRange>
+													<Min Value="64" />
+													<Max Value="127" />
+												</PowerMacroMappingRange>
+												<IsFolded Value="false" />
+												<StoredAllParameters Value="true" />
+												<DeviceLomId Value="0" />
+												<DeviceViewLomId Value="0" />
+												<IsOnLomId Value="0" />
+												<ParametersListWrapperLomId Value="0" />
+												<Type Value="1178747752" />
+												<ProgramCount Value="1" />
+												<ParameterCount Value="32" />
+												<ProgramNumber Value="0" />
+												<Buffer>
+													56433221420300003C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554
+													462D38223F3E203C56616C68616C6C614675747572655665726220706C7567696E56657273696F6E
+													3D22312E302E30763822207072657365744E616D653D2244656661756C742050726573657422204D
+													69783D22302E35222057696474683D22312E3022204563686F53796E633D22302E32352220456368
+													6F4E6F74653D22302E3333333333333334333236373434303822204563686F5F4D733D22302E3135
+													303030303030353936303436343522204563686F466565646261636B3D22302E3022204563686F53
+													70726561643D22302E3022204563686F44726976653D22302E31323522204563686F446574756E65
+													3D22302E3536363636363636323639333032333722204563686F4C6576656C3D22302E302220526F
+													7574696E673D22302E30222052657665726244656361793D22302E32393136363636353637333235
+													353932222052657665726253697A653D22302E35222052657665726241747461636B3D22302E3522
+													205265766572624561726C794C6174653D22302E35222052657665726244656E736974793D22312E
+													3022205265766572624C6576656C3D22312E3022204D6F64526174653D22302E3133323232363235
+													383531363331313622204D6F6444657074683D22302E343030303030303035393630343634352220
+													4C6F774551467265713D22302E323439393939393835303938383338382220486967684551467265
+													713D22302E32303831393732393536363537343122204563686F4D6F64653D22302E303833333333
+													3333353831363836303222205265766572624D6F64653D22302E3038333333333333353831363836
+													30322220436F6C6F723D22302E313636363636363731363333373230342220526573657276656431
+													3D22302E3022205265736572766564323D22302E3022205265736572766564333D22302E30222052
+													65736572766564343D22302E3022205265736572766564353D22302E302220526573657276656436
+													3D22302E3022205265736572766564373D22302E3022205265736572766564383D22302E3022206D
+													69784C6F636B3D22302220756957696474683D2231303230222075694865696768743D2234333522
+													2F3E00
+												</Buffer>
+												<Name Value="" />
+												<PluginVersion Value="16777224" />
+												<UniqueId Value="1214607983" />
+												<ByteOrder Value="2" />
+												<PresetRef />
+											</VstPreset>
+										</Preset>
+										<Version Value="16777224" />
+										<VstVersion Value="2400" />
+										<IsShellClient Value="false" />
+										<Category Value="1" />
+									</VstPluginInfo>
+								</PluginDesc>
+								<MpeEnabled Value="false" />
+								<MpeSettings>
+									<ZoneType Value="0" />
+									<FirstNoteChannel Value="1" />
+									<LastNoteChannel Value="15" />
+								</MpeSettings>
+								<ParameterList>
+									</ParameterList>
+								<AxisX Value="0" />
+								<AxisY Value="0" />
+								<SideChain>
+									<OnOff>
+										<LomId Value="0" />
+										<Manual Value="true" />
+										<AutomationTarget Id="103263">
+											<LockEnvelope Value="0" />
+										</AutomationTarget>
+										<MidiCCOnOffThresholds>
+											<Min Value="64" />
+											<Max Value="127" />
+										</MidiCCOnOffThresholds>
+									</OnOff>
+									<RoutedInput>
+										<Routable>
+											<Target Value="AudioIn/None" />
+											<UpperDisplayString Value="No Output" />
+											<LowerDisplayString Value="" />
+											<MpeSettings>
+												<ZoneType Value="0" />
+												<FirstNoteChannel Value="1" />
+												<LastNoteChannel Value="15" />
+											</MpeSettings>
+											<MpePitchBendUsesTuning Value="true" />
+										</Routable>
+										<Volume>
+											<LomId Value="0" />
+											<Manual Value="1" />
+											<MidiControllerRange>
+												<Min Value="0.0003162277571" />
+												<Max Value="15.8489332" />
+											</MidiControllerRange>
+											<AutomationTarget Id="103264">
+												<LockEnvelope Value="0" />
+											</AutomationTarget>
+											<ModulationTarget Id="103265">
+												<LockEnvelope Value="0" />
+											</ModulationTarget>
+										</Volume>
+									</RoutedInput>
+									<DryWet>
+										<LomId Value="0" />
+										<Manual Value="1" />
+										<MidiControllerRange>
+											<Min Value="0" />
+											<Max Value="1" />
+										</MidiControllerRange>
+										<AutomationTarget Id="103266">
+											<LockEnvelope Value="0" />
+										</AutomationTarget>
+										<ModulationTarget Id="103267">
+											<LockEnvelope Value="0" />
+										</ModulationTarget>
+									</DryWet>
+								</SideChain>
+							</PluginDevice>
+						

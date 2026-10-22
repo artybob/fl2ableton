@@ -1,0 +1,1903 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GroupTrack Id="123" SelectedToolPanel="7" SelectedTransformationName="" SelectedGeneratorName="">
+				<LomId Value="0" />
+				<LomIdView Value="0" />
+				<IsContentSelectedInDocument Value="false" />
+				<PreferredContentViewMode Value="0" />
+				<TrackDelay>
+					<Value Value="0" />
+					<IsValueSampleBased Value="false" />
+				</TrackDelay>
+				<Name>
+					<EffectiveName Value="BASS_GROUP" />
+					<UserName Value="BASS_GROUP" />
+					<Annotation Value="" />
+					<MemorizedFirstClipName Value="" />
+				</Name>
+				<Color Value="6" />
+				<AutomationEnvelopes>
+					<Envelopes>
+						</Envelopes>
+				</AutomationEnvelopes>
+				<TrackGroupId Value="-1" />
+				<TrackUnfolded Value="true" />
+				<DevicesListWrapper LomId="0" />
+				<ClipSlotsListWrapper LomId="0" />
+				<ArrangementClipsListWrapper LomId="0" />
+				<TakeLanesListWrapper LomId="0" />
+				<ViewData Value="{}" />
+				<TakeLanes>
+					<TakeLanes />
+					<AreTakeLanesFolded Value="true" />
+				</TakeLanes>
+				<LinkedTrackGroupId Value="-1" />
+				<Slots>
+					<GroupTrackSlot Id="0">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="1">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="2">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="3">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="4">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="5">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="6">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="7">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="8">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="9">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="10">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="11">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="12">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="13">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="14">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="15">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="16">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="17">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="18">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="19">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="20">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="21">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="22">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="23">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="24">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="25">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="26">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="27">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="28">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="29">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="30">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="31">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="32">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="33">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="34">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="35">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="36">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="37">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="38">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="39">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="40">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="41">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="42">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="43">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="44">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="45">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="46">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="47">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="48">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="49">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="50">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="51">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="52">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="53">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="54">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="55">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="56">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="57">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="58">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="59">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="60">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="61">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="62">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="63">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="64">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="65">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="66">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="67">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="68">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="69">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="70">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="71">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="72">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="73">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="74">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="75">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="76">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="77">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="78">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="79">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="80">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="81">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="82">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="83">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="84">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="85">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="86">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="87">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="88">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="89">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="90">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="91">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="92">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="93">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="94">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="95">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="96">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="97">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="98">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="99">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="100">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="101">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="102">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="103">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="104">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="105">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="106">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="107">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="108">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="109">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="110">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="111">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="112">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="113">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="114">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="115">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="116">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="117">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="118">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="119">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="120">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="121">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="122">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="123">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="124">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="125">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="126">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="127">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="128">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="129">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="130">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="131">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="132">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="133">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="134">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="135">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="136">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="137">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="138">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="139">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="140">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="141">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="142">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="143">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="144">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="145">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="146">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="147">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="148">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="149">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="150">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="151">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="152">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="153">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="154">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="155">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="156">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="157">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+					<GroupTrackSlot Id="158">
+						<LomId Value="0" />
+					</GroupTrackSlot>
+				</Slots>
+				<Freeze Value="false" />
+				<DeviceChain>
+					<AutomationLanes>
+						<AutomationLanes>
+							<AutomationLane Id="0">
+								<SelectedDevice Value="0" />
+								<SelectedEnvelope Value="0" />
+								<IsContentSelectedInDocument Value="false" />
+								<LaneHeight Value="85" />
+							</AutomationLane>
+							<AutomationLane Id="2">
+								<SelectedDevice Value="4" />
+								<SelectedEnvelope Value="1" />
+								<IsContentSelectedInDocument Value="false" />
+								<LaneHeight Value="51" />
+							</AutomationLane>
+							<AutomationLane Id="1">
+								<SelectedDevice Value="6" />
+								<SelectedEnvelope Value="2" />
+								<IsContentSelectedInDocument Value="false" />
+								<LaneHeight Value="51" />
+							</AutomationLane>
+						</AutomationLanes>
+						<AreAdditionalAutomationLanesFolded Value="false" />
+					</AutomationLanes>
+					<ClipEnvelopeChooserViewState>
+						<SelectedDevice Value="0" />
+						<SelectedEnvelope Value="0" />
+						<PreferModulationVisible Value="false" />
+					</ClipEnvelopeChooserViewState>
+					<AudioInputRouting>
+						<Target Value="AudioIn/External/S0" />
+						<UpperDisplayString Value="Ext. In" />
+						<LowerDisplayString Value="1/2" />
+						<MpeSettings>
+							<ZoneType Value="0" />
+							<FirstNoteChannel Value="1" />
+							<LastNoteChannel Value="15" />
+						</MpeSettings>
+						<MpePitchBendUsesTuning Value="true" />
+					</AudioInputRouting>
+					<MidiInputRouting>
+						<Target Value="MidiIn/External.All/-1" />
+						<UpperDisplayString Value="Ext: All Ins" />
+						<LowerDisplayString Value="" />
+						<MpeSettings>
+							<ZoneType Value="0" />
+							<FirstNoteChannel Value="1" />
+							<LastNoteChannel Value="15" />
+						</MpeSettings>
+						<MpePitchBendUsesTuning Value="true" />
+					</MidiInputRouting>
+					<AudioOutputRouting>
+						<Target Value="AudioOut/Main" />
+						<UpperDisplayString Value="Main" />
+						<LowerDisplayString Value="" />
+						<MpeSettings>
+							<ZoneType Value="0" />
+							<FirstNoteChannel Value="1" />
+							<LastNoteChannel Value="15" />
+						</MpeSettings>
+						<MpePitchBendUsesTuning Value="true" />
+					</AudioOutputRouting>
+					<MidiOutputRouting>
+						<Target Value="MidiOut/None" />
+						<UpperDisplayString Value="None" />
+						<LowerDisplayString Value="" />
+						<MpeSettings>
+							<ZoneType Value="0" />
+							<FirstNoteChannel Value="1" />
+							<LastNoteChannel Value="15" />
+						</MpeSettings>
+						<MpePitchBendUsesTuning Value="true" />
+					</MidiOutputRouting>
+					<Mixer>
+						<LomId Value="0" />
+						<LomIdView Value="0" />
+						<IsExpanded Value="true" />
+						<BreakoutIsExpanded Value="false" />
+						<On>
+							<LomId Value="0" />
+							<Manual Value="true" />
+							<AutomationTarget Id="99425">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<MidiCCOnOffThresholds>
+								<Min Value="64" />
+								<Max Value="127" />
+							</MidiCCOnOffThresholds>
+						</On>
+						<ModulationSourceCount Value="0" />
+						<ParametersListWrapper LomId="0" />
+						<Pointee Id="99426" />
+						<LastSelectedTimeableIndex Value="2" />
+						<LastSelectedClipEnvelopeIndex Value="0" />
+						<LastPresetRef>
+							<Value />
+						</LastPresetRef>
+						<LockedScripts />
+						<IsFolded Value="false" />
+						<ShouldShowPresetName Value="true" />
+						<UserName Value="" />
+						<Annotation Value="" />
+						<SourceContext>
+							<Value />
+						</SourceContext>
+						<MpePitchBendUsesTuning Value="true" />
+						<ViewData Value="{}" />
+						<Sends />
+						<Speaker>
+							<LomId Value="0" />
+							<Manual Value="true" />
+							<AutomationTarget Id="99427">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<MidiCCOnOffThresholds>
+								<Min Value="64" />
+								<Max Value="127" />
+							</MidiCCOnOffThresholds>
+						</Speaker>
+						<SoloSink Value="false" />
+						<PanMode Value="0" />
+						<Pan>
+							<LomId Value="0" />
+							<Manual Value="0" />
+							<MidiControllerRange>
+								<Min Value="-1" />
+								<Max Value="1" />
+							</MidiControllerRange>
+							<AutomationTarget Id="99428">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<ModulationTarget Id="99429">
+								<LockEnvelope Value="0" />
+							</ModulationTarget>
+						</Pan>
+						<SplitStereoPanL>
+							<LomId Value="0" />
+							<Manual Value="-1" />
+							<MidiControllerRange>
+								<Min Value="-1" />
+								<Max Value="1" />
+							</MidiControllerRange>
+							<AutomationTarget Id="99430">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<ModulationTarget Id="99431">
+								<LockEnvelope Value="0" />
+							</ModulationTarget>
+						</SplitStereoPanL>
+						<SplitStereoPanR>
+							<LomId Value="0" />
+							<Manual Value="1" />
+							<MidiControllerRange>
+								<Min Value="-1" />
+								<Max Value="1" />
+							</MidiControllerRange>
+							<AutomationTarget Id="99432">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<ModulationTarget Id="99433">
+								<LockEnvelope Value="0" />
+							</ModulationTarget>
+						</SplitStereoPanR>
+						<Volume>
+							<LomId Value="0" />
+							<Manual Value="1" />
+							<MidiControllerRange>
+								<Min Value="0.0003162277571" />
+								<Max Value="1.99526238" />
+							</MidiControllerRange>
+							<AutomationTarget Id="99434">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<ModulationTarget Id="99435">
+								<LockEnvelope Value="0" />
+							</ModulationTarget>
+						</Volume>
+						<ViewStateSessionTrackWidth Value="93" />
+						<CrossFadeState>
+							<LomId Value="0" />
+							<Manual Value="1" />
+							<AutomationTarget Id="99436">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<MidiControllerRange>
+								<Min Value="0" />
+								<Max Value="2" />
+							</MidiControllerRange>
+						</CrossFadeState>
+						<SendsListWrapper LomId="0" />
+					</Mixer>
+					<DeviceChain>
+						<Devices>
+							</Devices>
+						<SignalModulations />
+					</DeviceChain>
+					<FreezeSequencer>
+						<LomId Value="0" />
+						<LomIdView Value="0" />
+						<IsExpanded Value="true" />
+						<BreakoutIsExpanded Value="false" />
+						<On>
+							<LomId Value="0" />
+							<Manual Value="true" />
+							<AutomationTarget Id="99437">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<MidiCCOnOffThresholds>
+								<Min Value="64" />
+								<Max Value="127" />
+							</MidiCCOnOffThresholds>
+						</On>
+						<ModulationSourceCount Value="0" />
+						<ParametersListWrapper LomId="0" />
+						<Pointee Id="99438" />
+						<LastSelectedTimeableIndex Value="0" />
+						<LastSelectedClipEnvelopeIndex Value="0" />
+						<LastPresetRef>
+							<Value />
+						</LastPresetRef>
+						<LockedScripts />
+						<IsFolded Value="false" />
+						<ShouldShowPresetName Value="true" />
+						<UserName Value="" />
+						<Annotation Value="" />
+						<SourceContext>
+							<Value />
+						</SourceContext>
+						<MpePitchBendUsesTuning Value="true" />
+						<ViewData Value="{}" />
+						<ClipSlotList>
+							<ClipSlot Id="0">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="1">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="2">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="3">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="4">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="5">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="6">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="7">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="8">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="9">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="10">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="11">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="12">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="13">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="14">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="15">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="16">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="17">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="18">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="19">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="20">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="21">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="22">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="23">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="24">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="25">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="26">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="27">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="28">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="29">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="30">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="31">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="32">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="33">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="34">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="35">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="36">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="37">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="38">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="39">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="40">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="41">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="42">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="43">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="44">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="45">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="46">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="47">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="48">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="49">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="50">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="51">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="52">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="53">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="54">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="55">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="56">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="57">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="58">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="59">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="60">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="61">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="62">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="63">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="64">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="65">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="66">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="67">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="68">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="69">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="70">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="71">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="72">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="73">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="74">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="75">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="76">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="77">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="78">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="79">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="80">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="81">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="82">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="83">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="84">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="85">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="86">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="87">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="88">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="89">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="90">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="91">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="92">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="93">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="94">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="95">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="96">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="97">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="98">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="99">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="100">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="101">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="102">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="103">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="104">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="105">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="106">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="107">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="108">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="109">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="110">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="111">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="112">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="113">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="114">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="115">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="116">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="117">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="118">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="119">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="120">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="121">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="122">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="123">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="124">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="125">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="126">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="127">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="128">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="129">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="130">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="131">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="132">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="133">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="134">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="135">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="136">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="137">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="138">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="139">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="140">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="141">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="142">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="143">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="144">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="145">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="146">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="147">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="148">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="149">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="150">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="151">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="152">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="153">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="154">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="155">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="156">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="157">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="158">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+							</ClipSlot>
+						</ClipSlotList>
+						<MonitoringEnum Value="1" />
+						<KeepRecordMonitoringLatency Value="true" />
+						<Sample>
+							<ArrangerAutomation>
+								<Events />
+								<AutomationTransformViewState>
+									<IsTransformPending Value="false" />
+									<TimeAndValueTransforms />
+								</AutomationTransformViewState>
+							</ArrangerAutomation>
+						</Sample>
+						<VolumeModulationTarget Id="99439">
+							<LockEnvelope Value="0" />
+						</VolumeModulationTarget>
+						<TranspositionModulationTarget Id="99440">
+							<LockEnvelope Value="0" />
+						</TranspositionModulationTarget>
+						<TransientEnvelopeModulationTarget Id="99441">
+							<LockEnvelope Value="0" />
+						</TransientEnvelopeModulationTarget>
+						<GrainSizeModulationTarget Id="99442">
+							<LockEnvelope Value="0" />
+						</GrainSizeModulationTarget>
+						<FluxModulationTarget Id="99443">
+							<LockEnvelope Value="0" />
+						</FluxModulationTarget>
+						<SampleOffsetModulationTarget Id="99444">
+							<LockEnvelope Value="0" />
+						</SampleOffsetModulationTarget>
+						<ComplexProFormantsModulationTarget Id="99445">
+							<LockEnvelope Value="0" />
+						</ComplexProFormantsModulationTarget>
+						<ComplexProEnvelopeModulationTarget Id="99446">
+							<LockEnvelope Value="0" />
+						</ComplexProEnvelopeModulationTarget>
+						<PitchViewScrollPosition Value="-1073741824" />
+						<SampleOffsetModulationScrollPosition Value="-1073741824" />
+						<Recorder>
+							<IsArmed Value="false" />
+							<TakeCounter Value="1" />
+						</Recorder>
+					</FreezeSequencer>
+				</DeviceChain>
+			</GroupTrack>
+			

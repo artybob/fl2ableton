@@ -1,0 +1,17 @@
+# чужие проекты, сэмплы и результаты проверок — не публикуем
+ref*/
+out*/
+*.flp
+*.als
+*.zip
+*.wav
+*.aif
+*.aiff
+*.mp3
+*.flac
+*.ogg
+*.fxp
+!fl2ableton/templates/**
+__pycache__/
+*.pyc
+.env

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PluginFloatParameter Id="0">
+										<ParameterName Value="Depth" />
+										<ParameterId Value="0" />
+										<ParameterIdFlankBool Value="false" />
+										<VisualIndex Value="0" />
+										<ParameterValue>
+											<LomId Value="0" />
+											<Manual Value="100" />
+											<MidiControllerRange>
+												<Min Value="0" />
+												<Max Value="100" />
+											</MidiControllerRange>
+											<AutomationTarget Id="102605">
+												<LockEnvelope Value="0" />
+											</AutomationTarget>
+											<ModulationTarget Id="102606">
+												<LockEnvelope Value="0" />
+											</ModulationTarget>
+										</ParameterValue>
+										<LastUserRange>
+											<First Value="0" />
+											<Last Value="100" />
+										</LastUserRange>
+										<LastInternalRange>
+											<First Value="0" />
+											<Last Value="1" />
+										</LastInternalRange>
+									</PluginFloatParameter>
+									
